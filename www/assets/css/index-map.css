@@ -1,0 +1,23 @@
+/**
+  * MAP STYLE
+  */
+.marker {
+  background-color: red;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+/**
+  * Remove MapBox Attribution
+  */
+
+
+.marker-user {
+  width: 30px;
+  height: 30px;
+  background-color: #707070;
+  border-radius: 50%;
+  border: 5px solid white;
+}
